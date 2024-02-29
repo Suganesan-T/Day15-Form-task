@@ -1,0 +1,36 @@
+body{
+    background-color: #eef0ec ;
+    color: #456268;
+    padding-left: 30px;
+}
+label{
+    margin-top: 15px;
+}
+.malem{
+    margin-left: 10px;
+}
+.female{
+    margin-left: 10px;
+}
+.femalem{
+    margin-left: 10px;
+}
+.choise{
+    font-weight: lighter;
+    font-style: italic;
+}
+.span{
+    margin-left: 10px;
+}
+.title{
+    margin-top: 50px;
+}
+.input{
+    width: 20%;
+}
+.btn{
+    width: 20%;
+}
+.temp{
+    margin-top: 15px;
+}
